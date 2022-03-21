@@ -26,3 +26,9 @@
 </br>
 </div>
 </div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/kaykypaulinoalvesdossantos/kaykypaulinoalvesdossantos/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
